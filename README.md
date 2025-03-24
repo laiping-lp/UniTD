@@ -20,7 +20,7 @@ Extensive experiments demonstrate that the proposed UniTD benchmark, with its un
 ![图片2](https://github.com/user-attachments/assets/61d06685-a42c-438d-b564-973eb4e9064d)
 
 
-## Text Visualization Comparison
+## Visualization Different Text Types
 ![图片3](https://github.com/user-attachments/assets/3b423287-2890-42f5-9e03-bb8f219f6203)
 
 
